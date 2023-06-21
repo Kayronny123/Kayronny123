@@ -31,13 +31,21 @@ Olá! Sou Rogério Kayronny, um desenvolvedor Full Stack com ampla experiência 
 - **E-commerce - Front-end**  
   Desenvolvimento de um aplicativo de e-commerce utilizando apenas tecnologias de front-end. O projeto utiliza React (JSX), componentes, props e estado para criar uma interface interativa. A renderização de listas e renderização condicional é utilizada para exibir os produtos e as informações relevantes. O armazenamento local (localStorage) é utilizado para salvar o estado do carrinho de compras.
 
+[Link repo]  (https://github.com/Kayronny123/E-COMMERCE)
+  
+ [link codesandbox] (https://codesandbox.io/s/github/Kayronny123/E-COMMERCE)
+
 - **Pokedex - Integração de APIs**  
   Criação de uma Pokedex utilizando tecnologias como React, React Router e integração de APIs. A aplicação consome uma API externa para obter os dados dos Pokémons e exibi-los de forma dinâmica. Utiliza-se o React Router para criar rotas e navegação entre as páginas. Também é aplicado o conceito de design systems para manter a consistência visual.
-  (https://github.com/Kayronny123/Project-Pokedex)
-  (https://codesandbox.io/s/github/Kayronny123/Project-Pokedex)
+  
+ [link repo] (https://github.com/Kayronny123/Project-Pokedex)
+  
+ [link codesandbox] (https://codesandbox.io/s/github/Kayronny123/Project-Pokedex)
 
 - **API de Rede Social**  
   Desenvolvimento de uma API de uma rede social, onde os usuários podem se cadastrar, criar publicações e interagir com outras publicações através de curtidas. A tecnologia utilizada é Node.js com TypeScript e Express. O banco de dados utilizado é o SQLite, utilizando o Knex como query builder. São aplicados conceitos de POO, arquitetura em camadas, geração de UUID e hashes, autenticação e autorização. A API possui roteamento para lidar com as diferentes rotas da aplicação. Para testar e documentar a API, utiliza-se o Postman.
+  
+ [link repo] (https://github.com/Kayronny123/projeto-labook-backend)
 
 ## Experiência Profissional
 
