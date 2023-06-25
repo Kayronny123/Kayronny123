@@ -57,7 +57,9 @@ Olá! Sou Rogério Kayronny, um desenvolvedor Full Stack com ampla experiência 
 
 **Descrição:** 
 O Buscador de CEP é um projeto que permite aos usuários pesquisar informações de CEP através de uma interface amigável. Ele utiliza React, Axios e React Icons para criar uma aplicação dinâmica e responsiva. Com o uso de requisições de API, é possível buscar dados relacionados a um CEP específico e exibi-los de forma organizada, incluindo informações como logradouro, bairro, cidade e estado. Tecnologias Utilizadas: React, Axios, useState, HTML, CSS e React Icons.
+
 [link repo](https://github.com/Kayronny123/buscador-cep)
+
 [deploy](https://buscador-gamma.vercel.app/)
 
 
